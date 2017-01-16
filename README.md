@@ -13,3 +13,4 @@
 12. Uncle Johny
 11. Voters (Updated with Accepted Code)
 12. GCD2
+13. MULRU
