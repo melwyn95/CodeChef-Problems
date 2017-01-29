@@ -18,3 +18,4 @@
 15. Carvans
 16. Lapindromes
 17. Buying Sweets
+18. Jewels and Stones (Try Using LCS)
