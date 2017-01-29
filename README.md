@@ -21,3 +21,4 @@
 18. Jewels and Stones (Try Using LCS)
 19. Little Elephant and Permutations
 20. Chef and Feedback
+21. Maximum Weight Difference
