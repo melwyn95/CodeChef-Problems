@@ -1,0 +1,8 @@
+import java.io.*;
+import java.util.*;
+public class Main {
+    public static int[] add(int[][] table) {int[] carry = new int[table[0].length];int colIndex = 0;int[] returnValue = new int[table[0].length];for (int i=0;i<table[0].length;i++) {int cell = 0;for (int j=0;j<table.length;j++) { cell += table[j][i]; }cell += carry[colIndex++];if (cell > 9) {returnValue[i] = cell % 10;carry[colIndex] = cell / 10;} else { returnValue[i] = cell; }}return returnValue;}
+    public static int[] toNumArray(String a) {int count = 0;int[] A = new int[a.length()];for (char c : a.toCharArray()) { A[count++] = (int)(c - '0'); }return A;}
+    public static String multiply(String a, String b) {int[] A = toNumArray(a);int[] B = toNumArray(b);int[][] table = new int[b.length()][2*a.length()];for (int i=b.length()-1;i>=0;i--) {int colIndex = 0;int[] carry = new int[2*a.length()];for (int k=0;k<b.length()-1-i;k++) { table[i][colIndex++] = 0;}for (int j=a.length()-1;j>=0;j--) {int cell = B[i] * A[j] + carry[colIndex];if (cell > 9) {table[i][colIndex++] = cell % 10;carry[colIndex] = cell / 10;} else { table[i][colIndex++] = cell; }}if (carry[colIndex] > 0) { table[i][colIndex] = carry[colIndex]; }}int[] answer = add(table);String returnValue = "";int index = answer.length - 1;while (answer[index] == 0) { index--; }for (int i=index;i>=0;i--) { returnValue += answer[i]; }return returnValue;}
+    public static void main(String[] args) throws IOException{String[] fact = new String[101];fact[0] = "1";for (int i=1;i<=100;i++) { fact[i] = multiply(fact[i-1], Integer.toString(i)); }BufferedReader br = new BufferedReader(new InputStreamReader(System.in));int t = Integer.parseInt(br.readLine());while (t-- > 0) { System.out.println(fact[Integer.parseInt(br.readLine())]); }}
+}
