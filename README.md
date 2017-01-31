@@ -1,25 +1,30 @@
-# CodeChef-Problems
-1. Alexey
-2. Chef and Squares
-3. Cleaning Up
-4. Coin Flip
-5. Copy Paste
-6. KIRLAB
-7. Levy Conjecture
-8. Paying Up
-9. Samosa Bhai
-10. Sebi and Highway
-11. Train Partners
-12. Uncle Johny
-11. Voters (Updated with Accepted Code)
-12. GCD2
-13. MULRU
-14. Cats and Dogs
-15. Carvans
-16. Lapindromes
-17. Buying Sweets
-18. Jewels and Stones (Try Using LCS)
-19. Little Elephant and Permutations
-20. Chef and Feedback
-21. Maximum Weight Difference
-22. Small Factorials 
+# CodeChef-Problems         Problem Count = 25
+
+1. Beginer
+    1. Small Factorials
+    2. Cats and Dogs
+    3. Alexey
+    4. Sebi and Highway
+    5. Train Partners
+    6. Entrance Exam 
+
+2. Easy
+    1. Chef and Squares
+    2. Cleaning Up
+    3. Coin Flip
+    4. Copy Paste
+    5. KIRLAB
+    6. Levy Conjecture
+    7. Paying Up
+    8. Samosa Bhai
+    9. Uncle Johny
+    10. Voters (Updated with Accepted Code)
+    11. GCD2
+    12. MULRU
+    13. Carvans
+    14. Lapindromes
+    15. Buying Sweets
+    16. Jewels and Stones (Try Using LCS)
+    17. Little Elephant and Permutations
+    18. Chef and Feedback
+    19. Maximum Weight Difference
