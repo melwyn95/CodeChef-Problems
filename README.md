@@ -1,4 +1,4 @@
-# CodeChef-Problems         Problem Count = 25
+# CodeChef-Problems         Problem Count = 26
 
 1. Beginer
     1. Small Factorials
@@ -8,6 +8,7 @@
     5. Train Partners
     6. Entrance Exam
     7. Good Joke !
+    8. Turbo Sort
 
 2. Easy
     1. Chef and Squares
