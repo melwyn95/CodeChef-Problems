@@ -1,4 +1,4 @@
-# CodeChef-Problems         Problem Count = 26
+# CodeChef-Problems         Problem Count = 29
 
 1. Beginer
     1. Small Factorials
@@ -30,6 +30,7 @@
     17. Little Elephant and Permutations
     18. Chef and Feedback
     19. Maximum Weight Difference
+    20. The Ball And Cups
 
 3. February Challenge 2017
     1. Chef And Apartment Dues
