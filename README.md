@@ -1,4 +1,4 @@
-# CodeChef-Problems         Problem Count = 30
+# CodeChef-Problems         &nbsp&nbsp Problem Count = 30
 
 1. Beginer
     1. Small Factorials
@@ -32,6 +32,7 @@
     19. Maximum Weight Difference
     20. The Ball And Cups
     21. The Best Box
+    22. Chef And Right Triangles
 
 3. February Challenge 2017
     1. Chef And Apartment Dues
