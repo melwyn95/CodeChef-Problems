@@ -9,6 +9,7 @@
     6. Entrance Exam
     7. Good Joke !
     8. Turbo Sort (Partially solved)
+    9. Extreme Encoding (Not Solved)
 
 2. Easy
     1. Chef and Squares
