@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp&nbsp Problem Count = 30
+# CodeChef-Problems         &nbsp&nbsp Problem Count = 32
 
 1. Beginer
     1. Small Factorials
@@ -9,7 +9,7 @@
     6. Entrance Exam
     7. Good Joke !
     8. Turbo Sort (Partially solved)
-    9. Extreme Encoding (Not Solved)
+    9. Extreme Encoding
 
 2. Easy
     1. Chef and Squares
