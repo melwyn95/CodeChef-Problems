@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp&nbsp Problem Count = 33
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 33
 
 1. Beginer
     1. Small Factorials
