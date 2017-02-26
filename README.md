@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 37
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 38
 
 1. Beginer
     1. Small Factorials
@@ -38,6 +38,7 @@
     21. The Best Box
     22. Chef And Right Triangles
     23. Chef And Squares
+    24. Suraj goes Shopping
 
 3. February Challenge 2017
     1. Chef And Apartment Dues
