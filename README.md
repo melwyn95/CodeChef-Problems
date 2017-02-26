@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 35
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 36
 
 1. Beginer
     1. Small Factorials
@@ -12,6 +12,7 @@
     9. Extreme Encoding
     10. Nothing In Common
     11. Download file  
+    12. Quentin Tarantino
 
 2. Easy
     1. Chef and Squares
