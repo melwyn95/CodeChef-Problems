@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 39
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 40
 
 1. Beginer
     1. Small Factorials
@@ -48,3 +48,4 @@
 
 5. March Challenge 2017
     1. Xenny and Alternating Tasks
+    2. Bear and Extra Number
