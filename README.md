@@ -40,6 +40,7 @@
     23. Chef And Squares
     24. Suraj goes Shopping
     25. Dividing Stamps
+    26. Polo the Penguin and the Test
 
 3. February Challenge 2017
     1. Chef And Apartment Dues
