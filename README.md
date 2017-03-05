@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 41
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 43
 
 1. Beginer
     1. Small Factorials
@@ -40,7 +40,8 @@
     23. Chef And Squares
     24. Suraj goes Shopping
     25. Dividing Stamps
-    26. Polo the Penguin and the Test
+    26. Polo the Penguin and the Test (1/0 Knapsack)
+    27. Number Game Revisited
 
 3. February Challenge 2017
     1. Chef And Apartment Dues
