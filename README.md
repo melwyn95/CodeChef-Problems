@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 46
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 48
 
 1. Beginer
     1. Small Factorials
@@ -45,6 +45,7 @@
     27. Number Game Revisited
     28. Distribute idlis Equally
     29. Arranging Cup-cakes
+    30. Subtraction Game 1
 
 3. February Challenge 2017
     1. Chef And Apartment Dues
