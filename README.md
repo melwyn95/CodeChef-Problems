@@ -55,3 +55,4 @@
 5. March Challenge 2017
     1. Xenny and Alternating Tasks
     2. Bear and Extra Number
+    3. Bandwidth of a matrix
