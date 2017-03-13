@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 50
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 51
 
 1. Beginer
     1. Small Factorials
@@ -49,13 +49,16 @@
     31. Splitting Candies
     32. A Very Easy Problem!
 
-3. February Challenge 2017
+3. Medium
+    1. Prime Generator (Modified Segmented Seive)
+
+4. February Challenge 2017
     1. Chef And Apartment Dues
 
-4. February Lunch Time 2017
+5. February Lunch Time 2017
     1. Chef And Milky Cookies
 
-5. March Challenge 2017
+6. March Challenge 2017
     1. Xenny and Alternating Tasks
     2. Bear and Extra Number
     3. Bandwidth of a matrix
