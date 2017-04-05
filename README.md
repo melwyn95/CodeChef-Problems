@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 52
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 53
 
 1. Beginer
     1. Small Factorials
@@ -52,6 +52,7 @@
 3. Medium
     1. Prime Generator (Modified Segmented Seive)
     2. Bytelandian gold coins (Classic DP memoization)
+    3. Flipping Coins (Segment Tree)
 
 4. February Challenge 2017
     1. Chef And Apartment Dues
