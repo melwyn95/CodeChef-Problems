@@ -6,11 +6,11 @@ for _ in range(int(raw_input())):
         print max(a)
         for i in a: print i, 
     elif n > 2:
-        mid = (2*n-1)/2 
-        temp = a[mid+1]
-        a[mid+1] = a[mid+2]
-        a[mid+2] = temp
-        print a[mid+1]
-        for i in a: print i, 
+        b = []
+        for i in range(n):
+            b.append(a[i])
+            b.append(a[n+i])
+        print b[n]
+        for i in b: print i, 
     print 
         
