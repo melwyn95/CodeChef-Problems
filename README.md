@@ -1,4 +1,4 @@
-# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 54
+# CodeChef-Problems         &nbsp;&nbsp; Problem Count = 63
 
 1. Beginer
     1. Small Factorials
@@ -14,6 +14,7 @@
     11. Download file  
     12. Quentin Tarantino
     13. ChefWatson uses Social Network
+	14. K Fibonnaci
 
 2. Easy
     1. Chef and Squares
@@ -48,12 +49,14 @@
     30. Subtraction Game 1
     31. Splitting Candies
     32. A Very Easy Problem!
+	33. LittleElephantAndBombs
 
 3. Medium
     1. Prime Generator (Modified Segmented Seive)
     2. Bytelandian gold coins (Classic DP memoization)
     3. Flipping Coins (Segment Tree)
     4. Root of the problem
+	5. Number Of Factors
 
 4. February Challenge 2017
     1. Chef And Apartment Dues
@@ -65,3 +68,13 @@
     1. Xenny and Alternating Tasks
     2. Bear and Extra Number
     3. Bandwidth of a matrix
+	
+7. May Challenge 2017
+	1. Chef and Daily Routine
+	2. Cource In University
+	3. Median of adjacent maximum numbers
+	
+8. June Challenge 2017
+	1. A Good Set
+	2. Xenny And Coin Rankings
+	3. Chef And The Feast
